@@ -1,0 +1,11 @@
+name: sghealth
+description: layout for the "Lakes" app.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/Hospital.jpeg
